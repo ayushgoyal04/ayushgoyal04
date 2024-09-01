@@ -5,14 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Kotlin + Jetpack Compose
+- 🔭 I’m currently working on Backend Development
+- 🌱 I’m currently learning Django and machine learning
 - 👯 I’m looking to collaborate on Innovative Projects
 - 🤔 I’m looking for help with the Growth of the community
 - 💬 Ask me about anything
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 # 📊 GitHub Stats:
 <div align="center">
