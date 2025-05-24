@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ayushgoyal04/ayushgoyal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github profile. Feel free to explore and contact me :)
 
 Here are some ideas to get you started:
 
