@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Innovative Projects
 - 🤔 I’m looking for help with the Growth of the community
 - 💬 Ask me about anything
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: he/him
+- 📫 How to reach me: LinkedIn [https://www.linkedin.com/in/ayushgoyal04/]
 
 # 📊 GitHub Stats:
 <div align="center">
